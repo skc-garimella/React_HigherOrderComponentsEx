@@ -1,1 +1,4 @@
-weather app using React and Redux.
+React Higher order Components example.
+
+  >npm install
+  >npm start
